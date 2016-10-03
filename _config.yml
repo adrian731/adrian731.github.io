@@ -1,0 +1,6 @@
+title: CV de Kenny Mccormick
+email: southpark@kenny.com
+
+# Build settings
+markdown: kramdown
+theme: minima
