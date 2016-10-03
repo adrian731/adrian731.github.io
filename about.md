@@ -4,32 +4,31 @@ title: Currículum Kevin Mccormick
 tagline: adrian731.github.io
 ---
 ## **Datos Personales**
-* **Nombre:**
-* **Apellidos:** 
-* **Fecha de Nacimiento:** 
-* **Domicilio:**
-* **Teléfono:** 
+* **Nombre:** Kevin 
+* **Apellido:** Mccormick
+* **Fecha de Nacimiento:** 22/03/1998 
 
 ## **Formación Técnica**
-*  **Nivel:**
-*  **Nivel:** 
+* Técnico de seguridad**Nivel:** Profesional
+* Jugador de videojuegos**Nivel:** 
 * **Nivel:** 
 
 ## **Experiencia Laboral**
 
 
 ## **Idiomas**
-
+* **Ingles:** Nativo
+* **Español:** Palabras sueltas
+ 
 
 ## **Cursos**
 
 
 ## **Información adicional**
-### Interes personales
+*Muero con muchísima facilidad*
+*Repertorio de insultos amplio*
 
-### Interes laborales
 
-### Valores personales
-
-### Permiso de conducir B y disponibilidad de vehículo propio
+### Permiso de conducir y vehículos
+Tengo bici propia y un monopatín que no uso
 
