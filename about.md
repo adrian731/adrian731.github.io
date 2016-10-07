@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Currículum Kevin Mccormick 
+title: Currículum Kenny Mccormick 
 tagline: adrian731.github.io
 ---
-![Kenny](images/kenny2.png)<br>
+![Kenny](images/Kenny2.png)<br>
 
 ## **Datos Personales**
 * **Nombre:** Kevin 
