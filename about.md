@@ -10,8 +10,8 @@ tagline: adrian731.github.io
 
 ## **Formación Técnica**
 * Técnico de seguridad**Nivel:** Profesional
-* Jugador de videojuegos**Nivel:** 
-* **Nivel:** 
+* Jugador de videojuegos**Nivel:** Malo
+* Perdedor del tiempo **Nivel:** Bastante alto 
 
 ## **Experiencia Laboral**
 
@@ -19,14 +19,17 @@ tagline: adrian731.github.io
 ## **Idiomas**
 * **Ingles:** Nativo
 * **Español:** Palabras sueltas
+* **Japonés:** No tengo ni idea
+* **Otros idiomas:** He hablado con el diablo
  
 
 ## **Cursos**
+*Curso de bandalismo,* 2000-20001
 
 
 ## **Información adicional**
-*Muero con muchísima facilidad*
-*Repertorio de insultos amplio*
+Muero con muchísima facilidad
+Repertorio de insultos amplio
 
 
 ### Permiso de conducir y vehículos
