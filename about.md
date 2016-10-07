@@ -4,6 +4,7 @@ title: Currículum Kevin Mccormick
 tagline: adrian731.github.io
 ---
 ![Kenny](images/kenny1.png)
+
 ## **Datos Personales**
 * **Nombre:** Kevin 
 * **Apellido:** Mccormick
