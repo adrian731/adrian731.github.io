@@ -5,4 +5,4 @@ tagline: adrian731.github.io
 ---
 
 [Curriculum](about)
-![Kenny Mccormick](images/Kenny1.jpg)
+![Kenny Mccormick](images/kenny1.jpg)
